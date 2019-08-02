@@ -89,6 +89,8 @@ public class ExpectedRevenueTest extends TestBase {
 
         Assert.assertEquals(exp,acc);
 
+        System.out.println("hello bojan");
+
     }
 
 
